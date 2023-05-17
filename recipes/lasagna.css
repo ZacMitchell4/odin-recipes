@@ -1,0 +1,30 @@
+body {
+  background-color: azure;
+}
+
+h1 {
+  color: #57ace1;
+}
+
+.description {
+  color: orange;
+}
+
+.ingredients {
+  color: green;
+}
+
+.steps {
+  color: purple;
+}
+
+.text-font {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.description,
+.ingredients,
+.steps {
+  font-family: Tahoma, sans-serif;
+}
